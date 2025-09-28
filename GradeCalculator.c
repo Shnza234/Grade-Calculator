@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_ENTRIES 10
+#define MAX_ENTRIES 12
 #define MAX_LENGTH 100
 
 // Structure for entry of data
